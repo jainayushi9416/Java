@@ -1,3 +1,9 @@
+//WAP to print Star Pattern as
+//Input:n=3
+//Output:
+//*
+//*    *
+//*    *    *
 import java.util.*;
 
 public class pattern1 {
